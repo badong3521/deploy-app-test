@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://github.com/badong3521/deploy-app-test.git",
   "eslintConfig": {
     "extends": [
       "react-app",
